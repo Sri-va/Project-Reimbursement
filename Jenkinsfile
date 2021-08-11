@@ -8,7 +8,7 @@ pipeline {
         stage('Build') {
             steps {
                 // Get some code from a GitHub repository
-                git branch: "main", url: 'https://github.com/Sri-va/Project-1.git'
+                git branch: "main", url: 'https://github.com/Sri-va/Project-Reimbursement.git'
                 // Run Maven on a Unix agent.
                 sh "mvn -Dmaven.test.failure.ignore=true clean package"
                 // To run Maven on a Windows agent, use
