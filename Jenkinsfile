@@ -16,7 +16,7 @@ pipeline {
                 
                 sh "docker build -t project-1 ."
                 sh "docker container stop project-1 || true"
-                sh "docker container run --rm -d -p 8081:8443 --name project-1 project-1"
+                sh "docker container run --rm -d -p 8081:8080 --name project-1 project-1"
             }
             post {
                 // If Maven was able to run the tests, even if some of the test
