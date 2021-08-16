@@ -66,9 +66,9 @@ A Manager can:
 
 > Once, you see the index page, you can signup if you want to register as a new employee.
 > If you are already an existing user, you can login as an employee/manager.
-> As an employee, you can view and update your details
-> View cases
-> Raise a new case if you want.
+> As an employee, you can view and update your details,
+> View cases,
+> Raise a new case if you want,
 > If you are a manager, it's almost same as above, in addition with approving or rejecting the cases.
 
 
