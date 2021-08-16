@@ -40,9 +40,11 @@ A Manager can:
 * Postgres - version 42.2.22
 * Jackson - version 2.12.3
 * Log4j - version 2.14.1
+* Tomcat - version 9.0
 * HTML5
 * Bootstrap 5
 * JavaScript - ES-6
+* FetchAPI
 
 ## Features
 
