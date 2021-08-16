@@ -59,7 +59,7 @@ A Manager can:
 
 
 - Images of what it should look like
-
+   [Link](https://github.com/Sri-va/Project-Reimbursement/blob/other/Web%20capture_16-8-2021_20345_localhost.jpeg)
 
 
 ## Usage
@@ -71,9 +71,5 @@ A Manager can:
 > Raise a new case if you want.
 > If you are a manager, it's almost same as above, in addition with approving or rejecting the cases.
 
-
-## License
-
-This project uses the following license: [<license_name>](<link>).
 
 
